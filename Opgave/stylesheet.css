@@ -1,0 +1,32 @@
+
+
+
+
+
+
+.banner-billede {
+    height: 500px;
+    width: 100%;
+}
+
+header {
+    height: 800px;
+    width: 100%;
+    background-color: #779882;
+    color:#F3F4EF; 
+}
+
+main {
+    background-color: #F3F4EF;
+    
+
+}
+
+footer {
+    height: 200px;
+    width: 100%;
+    background-color: #425348;
+    color:aliceblue;
+    display: flex;
+
+}
